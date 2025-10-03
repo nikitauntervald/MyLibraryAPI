@@ -20,3 +20,14 @@ C:\Users\nikit\source\repos\MyLibrary.Ver2\MyLibrary\obj\Release\net8.0\MyLibrar
 C:\Users\nikit\source\repos\MyLibrary.Ver2\MyLibrary\obj\Release\net8.0\refint\MyLibrary.dll
 C:\Users\nikit\source\repos\MyLibrary.Ver2\MyLibrary\obj\Release\net8.0\MyLibrary.pdb
 C:\Users\nikit\source\repos\MyLibrary.Ver2\MyLibrary\obj\Release\net8.0\ref\MyLibrary.dll
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\bin\Release\net8.0\MyLibrary.deps.json
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\bin\Release\net8.0\MyLibrary.dll
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\bin\Release\net8.0\MyLibrary.pdb
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.dll
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\refint\MyLibrary.dll
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\MyLibrary.pdb
+C:\Users\nikit\source\repos\MyLibrary.Ver3\MyLibrary\obj\Release\net8.0\ref\MyLibrary.dll
